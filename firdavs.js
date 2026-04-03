@@ -1,4 +1,4 @@
-1 - masala
+// 1 - masala
 // function isBalanced(str) {
 //   if (str.length % 2 !== 0) return false;
 
